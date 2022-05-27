@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  app:
+    image: benlantaff/nodejs-express-mongodb
+    ports:
+      - "9001:9001"

@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-express-docker",
+  "version": "1.0.0",
+  "description": "A minimal application to get started with NodeJS, Express, and Docker.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlantaff/NodeJS-Express-Docker.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Docker"
+  ],
+  "author": "Ben Lantaff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benlantaff/NodeJS-Express-Docker/issues"
+  },
+  "homepage": "https://github.com/benlantaff/NodeJS-Express-Docker#readme"
+}
