@@ -13,7 +13,7 @@ This is a minimal application to get started with NodeJS, Express, and Docker.
 These steps assume you have docker installed on your machine. If you need to install, please visit [Docker](https://docker.com/)
 
 - `git clone https://github.com/benlantaff/NodeJS-Express-Docker.git` - Clone this repo to your local machine.
-- `docker build -t benlantaff/nodejs-express-mongodb .` - Build the docker image. Make sure you are in the same directory as the Dockerfile.
+- `docker build -t benlantaff/nodejs-express .` - Build the docker image. Make sure you are in the same directory as the Dockerfile.
 - `docker-compose up` - Docker command to run the image in a container.
 
 ## Learning Resrouces

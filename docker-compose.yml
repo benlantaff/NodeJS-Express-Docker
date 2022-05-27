@@ -2,6 +2,6 @@ version: "3.8"
 
 services:
   app:
-    image: benlantaff/nodejs-express-mongodb
+    image: benlantaff/nodejs-express
     ports:
       - "9001:9001"
